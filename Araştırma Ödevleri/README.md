@@ -40,7 +40,9 @@
 - Nasıl kullanılmalıdır ?
 - Bir adet Tools (tools namespace) attribute kullanımını gösterir misiniz ? 
 
-       Bir uygulama geliştirirken layout dizini içinde kullandıpımız xml dosyasını tool attribute(tools namespace) ile mümkündür. Tasarım tarafında yapılan                    değişkenlerin çıktısını uygulamayı çalıştırmadan direk görebilmemizi sağlamaktadır. Tasarım özelliklerini veya derleme zaman davranışlarını etkinleştiren XML          özelliklerini destekler.
+       Bir uygulama geliştirirken layout dizini içinde kullandıpımız xml dosyasını tool attribute(tools namespace) ile mümkündür. 
+       Tasarım tarafında yapılan değişkenlerin çıktısını uygulamayı çalıştırmadan direk görebilmemizi sağlamaktadır. 
+       Tasarım özelliklerini veya derleme zaman davranışlarını etkinleştiren XML özelliklerini destekler.
        Kullanabilmemiz için activity_main.xml dosyamız içinde "xmlns:tools="http://schemas.android.com/tools"" tanımlamamız gerekmektedir.
        Örnek vermek gerekirse:
        -Tools namespace kullanmadan
