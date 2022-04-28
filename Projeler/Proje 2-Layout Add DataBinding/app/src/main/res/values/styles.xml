@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="mystyle">
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:textColor">#2C2B47</item>
+        <item name="android:textSize">38sp</item>
+    </style>
+
+    <style name="Mybuttonstyle">
+        <item name="android:background">@drawable/roundstyle</item>
+        <item name="android:backgroundTint">#2C2B47</item>
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColorHint">#FFF1EF</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:theme">@style/Theme.AppCompat</item>
+    </style>
+
+    <style name="TextEmailstyle">
+        <item name="android:background">@drawable/ic_rectangle__4_</item>
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textColorHint">#2C2B47</item>
+    </style>
+</resources>
